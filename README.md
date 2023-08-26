@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Singh</h1>
 <h3 align="center">Java Developer: Turning Coffee into Code Since Forever</h3>
 
-<img align="right" alt="Coding" width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9oYmd1cTJ1dzFmeXJwaXh3dHd0ZXdweHZvem5iY2E4YmFpeHltMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9oYmd1cTJ1dzFmeXJwaXh3dHd0ZXdweHZvem5iY2E4YmFpeHltMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 📫 How to reach me **pb3522991@gmail.com**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JavaBrewMaster"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JavaBrewMaster" /></a></p><br><br>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeep-003&show_icons=true&locale=en&layout=compact" alt="pradeep-003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-003&" alt="pradeep-003" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-003&" alt="pradeep-003" /></p>
