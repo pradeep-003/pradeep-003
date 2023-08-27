@@ -17,6 +17,5 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-003&" alt="pradeep-003" /></p>
 
 
-<img align="left" class="logo" src="https://media.licdn.com/dms/image/D4D22AQECDJx04fX84g/feedshare-shrink_2048_1536/0/1687210352510?e=2147483647&v=beta&t=NDbj7ISv_ULUYoLfvR5VK_LF9eAD6xc57pOyZt6CKWQ" alt="Logo" width="300" length="100">
 
       
