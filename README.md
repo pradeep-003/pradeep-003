@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I once turned coffee into Java code—literally!**
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/JavaBrewMaster"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JavaBrewMaster" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pradeep509x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JavaBrewMaster" /></a></p><br><br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeep-003&show_icons=true&locale=en&layout=compact" alt="pradeep-003" /></p>
 
